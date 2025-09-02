@@ -8,4 +8,6 @@ This project explores ball-by-ball data from the Indian Premier League (IPL). Us
 
 - programming language: Python 
 - libraries: Pandas, NumPy, Matplotlib
-- Dataset: matches.csv and deliveries.csv (Kaggle)
+- Dataset: matches.csv & deliveries.csv (from Kaggle)
+- Analyzed match outcomes, player strike rates, and team performance.
+- Visualized trends with bar charts and line graphs.
