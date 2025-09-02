@@ -1,6 +1,6 @@
 # IPL Cricket Data Analysis
 
-* Analyzed IPL ball-by-ball data (matches & deliveries) using Pandas and NumPy.
+* Analyzed IPL ball-by-ball data using Pandas and NumPy.
 
 * Identified top run scorers, winning factors, and team strategies across seasons.
 
