@@ -1,7 +1,11 @@
 # IPL Cricket Data Analysis
 
-* Analyzed IPL ball-by-ball data using Pandas and NumPy.
+* Project Overview:
 
-* Identified top run scorers, winning factors, and team strategies across seasons.
+This project explores ball-by-ball data from the Indian Premier League (IPL). Using Python libraries, I analyzed matches and player performances to uncover interesting patterns like top run scorers, winning factors, and strike rates.
+ 
+* Tools & Libraries:
 
-* Built visualizations in Matplotlib to compare player performances and match outcomes.
+- programming language: Python 
+- libraries: Pandas, NumPy, Matplotlib
+- Dataset: matches.csv and deliveries.csv (Kaggle)
