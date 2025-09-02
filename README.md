@@ -1,2 +1,7 @@
-# IPL-Data-Analysis
-Analyzing IPL cricket data using Pandas, NumPy and Matplotlib
+# IPL Cricket Data Analysis
+
+* Analyzed IPL ball-by-ball data (matches & deliveries) using Pandas and NumPy.
+
+* Identified top run scorers, winning factors, and team strategies across seasons.
+
+* Built visualizations in Matplotlib to compare player performances and match outcomes.
